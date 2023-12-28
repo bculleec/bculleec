@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+- :canada: Currently studying computer science at the University of Guelph in Ontario
+- 🔭 I’m currently working on a language translation app in Next.js
+- 🌱 I’m currently learning ML with TensorFlow
+- ❤️ I'm passionate about Boid simulation algorithms, parallel computing, and retro console graphics.
+![UPei9F5](https://github.com/bculleec/bculleec/assets/145722460/a182de15-cb40-469e-a9e5-cb4f6a90203b)
 
 <!--
 **bculleec/bculleec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
