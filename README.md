@@ -9,6 +9,9 @@ Feel welcome to contribute to any of the following projects!
 
 🪐 Geospatial
 
+:flower_playing_cards: 3D Graphics
+[threejs-sketches](github.com/bculleec/threejs-sketches)
+
 🌊 Miscellaneous
 
 
