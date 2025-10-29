@@ -7,7 +7,7 @@ Feel welcome to contribute to any of the following projects!
 
 ✨ Highlights
 
-🪐 Geospatial
+🗺️: Geospatial
 
 :flower_playing_cards: 3D Graphics
 
