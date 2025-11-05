@@ -9,6 +9,8 @@ Feel welcome to contribute to any of the following projects!
 
 🗺️: Geospatial
 
+- [Dynamic Tiles Loading and Sphere Projection](https://bculleec.github.io/threejs-sketches/threejs-dynamic-tile-loading/)
+
 :flower_playing_cards: 3D Graphics
 
  - [threejs-sketches](https://github.com/bculleec/threejs-sketches)
