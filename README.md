@@ -15,6 +15,8 @@ Feel welcome to contribute to any of the following projects!
 
  - [threejs-sketches](https://github.com/bculleec/threejs-sketches)
 
+🤖: Artificial Intelligence
+
 🌊 Miscellaneous
 
 
