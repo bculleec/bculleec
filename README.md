@@ -1,6 +1,6 @@
 ### Hi 👋
 - :canada: Studied computer science at the University of Guelph in Ontario
-- 🌐 I'm tinkering with three.js
+- 🌐 I'm tinkering with [three.js](https://github.com/mrdoob/three.js/)
 - ❤️ I'm passionate about geospatial systems, Node.js development, and retro console graphics.
 
 Feel welcome to contribute to any of the following projects!
