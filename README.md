@@ -17,7 +17,7 @@ Feel welcome to contribute to any of the following projects!
 
 🤖: Artificial Intelligence
 
-- [Text Vector Embeddings & Retrieval in Node.js](https://bculleec.up.railway.app/)
+- [Text Vector Embeddings & Retrieval in Node.js](https://github.com/bculleec/Vector-Embeddings-Retrieval-in-Node.js)
 
 🌊 Miscellaneous
 
