@@ -7,6 +7,8 @@ Feel welcome to contribute to any of the following projects!
 
 ✨ Highlights
 
+- [My Personal Portfolio in Node.js and Fastify](https://bculleec.up.railway.app)
+
 🗺️: Geospatial
 
 - [Dynamic Tiles Loading and Sphere Projection](https://bculleec.github.io/threejs-sketches/threejs-dynamic-tile-loading/)
