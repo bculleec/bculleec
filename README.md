@@ -6,11 +6,12 @@
 Feel welcome to contribute to any of the following projects!
 
 ✨ Highlights
-
+- [geolabo!: AI powered geographical companion](https://geolabo.up.railway.app)
 - [My Personal Portfolio in Node.js and Fastify](https://bculleec.up.railway.app)
 
 🗺️: Geospatial
 
+- [geolabo!: AI powered geographical companion](https://geolabo.up.railway.app)
 - [Dynamic Tiles Loading and Sphere Projection](https://bculleec.github.io/threejs-sketches/threejs-dynamic-tile-loading/)
 
 :flower_playing_cards: 3D Graphics
@@ -19,6 +20,7 @@ Feel welcome to contribute to any of the following projects!
 
 🤖: Artificial Intelligence
 
+- [geolabo!: AI powered geographical companion](https://geolabo.up.railway.app)
 - [Text Vector Embeddings & Retrieval in Node.js](https://github.com/bculleec/Vector-Embeddings-Retrieval-in-Node.js)
 
 🌊 Miscellaneous
