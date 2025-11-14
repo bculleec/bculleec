@@ -1,6 +1,7 @@
 ### Hi 👋
 - :canada: Studied computer science at the University of Guelph in Ontario
 - 🌐 I'm tinkering with [three.js](https://github.com/mrdoob/three.js/)
+- 🎡 I'm building a web based raster editor in [Rust](https://github.com/rust-lang/rust)
 - ❤️ I'm passionate about geospatial systems, Node.js development, and retro console graphics.
 
 Feel welcome to contribute to any of the following projects!
