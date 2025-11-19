@@ -1,18 +1,19 @@
 ### Hi 👋
 - :canada: Studied computer science at the University of Guelph in Ontario
 - 🌐 I'm tinkering with [three.js](https://github.com/mrdoob/three.js/)
-- 🎡 I'm building a web based raster editor in [Rust](https://github.com/rust-lang/rust)
+- 🐻 I'm experimenting with raw networking and building netkuma, a tiny low-level framework for Node.js
 - ❤️ I'm passionate about geospatial systems, Node.js development, and retro console graphics.
 
 Feel welcome to contribute to any of the following projects!
 
 ✨ Highlights
-- [geolabo!: AI powered geographical companion](https://geolabo.up.railway.app)
+- [netkuma.js - a tiny low-level networking framework I built on raw TCP](https://github.com/bculleec/netkuma)
+- [geolabo! - AI powered geographical companion](https://geolabo.up.railway.app)
 - [My Personal Portfolio in Node.js and Fastify](https://bculleec.up.railway.app)
 
 🗺️: Geospatial
 
-- [geolabo!: AI powered geographical companion](https://geolabo.up.railway.app)
+- [geolabo! - AI powered geographical companion](https://geolabo.up.railway.app)
 - [Dynamic Tiles Loading and Sphere Projection](https://bculleec.github.io/threejs-sketches/threejs-dynamic-tile-loading/)
 
 :flower_playing_cards: 3D Graphics
@@ -21,7 +22,7 @@ Feel welcome to contribute to any of the following projects!
 
 🤖: Artificial Intelligence
 
-- [geolabo!: AI powered geographical companion](https://geolabo.up.railway.app)
+- [geolabo!- AI powered geographical companion](https://geolabo.up.railway.app)
 - [Text Vector Embeddings & Retrieval in Node.js](https://github.com/bculleec/Vector-Embeddings-Retrieval-in-Node.js)
 
 🌊 Miscellaneous
