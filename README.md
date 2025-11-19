@@ -9,7 +9,7 @@ Feel welcome to contribute to any of the following projects!
 ✨ Highlights
 - [netkuma.js - a tiny low-level networking framework I built on raw TCP](https://github.com/bculleec/netkuma)
 - [geolabo! - AI powered geographical companion](https://geolabo.up.railway.app)
-- [My Personal Portfolio in Node.js and Fastify](https://bculleec.up.railway.app)
+- [My Personal Portfolio in Node.js and Fastify](https://www.bculleec.dev)
 
 🗺️: Geospatial
 
